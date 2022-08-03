@@ -1,9 +1,8 @@
 {
     "openapi": "3.0.1",
     "info": {
-      "description": "",
       "title": "Codat API",
-      "description": "[What's changed in our Swagger](https://docs.codat.io/docs/new-swagger-ui)",
+      "description": "Codat is the best API for SMB business data. [What's changed in our API](https://docs.codat.io/changelog)",
       "version": "2.0.0",
       "contact": {
         "name": "Codat Support",
