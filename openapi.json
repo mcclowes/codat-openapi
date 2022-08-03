@@ -27,17 +27,23 @@
       {
         "description": "dhu hdaish isahd iahs diasd",
         "name": "Companies",
-        "externalDocs": ""
+        "externalDocs": {
+          "url": ""
+        }
       },
       {
         "description": "dhu hdaish isahd iahs diasd",
         "name": "Connection",
-        "externalDocs": "www.google.com"
+        "externalDocs": {
+          "url": "www.google.com"
+        }
       },
       {
         "description": "dhu hdaish isahd iahs diasd",
         "name": "Rules",
-        "externalDocs": "www.google.com"
+        "externalDocs": {
+          "url": "www.google.com"
+        }
       }
     ],
     "paths": {
