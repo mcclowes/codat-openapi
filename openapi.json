@@ -1,14 +1,43 @@
 {
     "openapi": "3.0.1",
     "info": {
+      "description": "",
       "title": "Codat API",
       "description": "[What's changed in our Swagger](https://docs.codat.io/docs/new-swagger-ui)",
-      "version": "v1"
+      "version": "2.0.0",
+      "contact": {
+        "name": "Codat Support",
+        "url": "https://codat.zendesk.com/hc/en-gb",
+        "email": "support@codat.io"
+      }
     },
     "servers": [
       {
         "url": "https://api.codat.io",
-        "description": "Codat API (Production)"
+        "description": "Codat API"
+      }
+    ],
+    "security": [
+      {
+        "AuthorizationHeader": [
+        ]
+      }
+    ],
+    "tags": [
+      {
+        "description": "dhu hdaish isahd iahs diasd",
+        "name": "Companies",
+        "externalDocs": ""
+      },
+      {
+        "description": "dhu hdaish isahd iahs diasd",
+        "name": "Connection",
+        "externalDocs": "www.google.com"
+      },
+      {
+        "description": "dhu hdaish isahd iahs diasd",
+        "name": "Rules",
+        "externalDocs": "www.google.com"
       }
     ],
     "paths": {
@@ -21397,13 +21426,6 @@
         }
       }
     },
-    "security": [
-      {
-        "AuthorizationHeader": [
-          
-        ]
-      }
-    ],
     "x-readme": {
       "samples-languages": [
         "curl",
