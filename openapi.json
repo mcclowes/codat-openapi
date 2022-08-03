@@ -24,28 +24,28 @@
     ],
     "tags": [
       {
-        "description": "In Codat, a company represents a business sharing access to their data. Each company can have multiple data connections to different data sources such as one connection to Xero for accounting data, two connections to Plaid for two bank accounts and a connection to Zettle for POS data.",
+        "description": "A Company represents a business sharing access to their data. Each company can have multiple data connections to different data sources such as one connection to Xero for accounting data, two connections to Plaid for two bank accounts and a connection to Zettle for POS data.",
         "name": "Companies",
         "externalDocs": {
           "url": "https://docs.codat.io/docs/core-companies"
         }
       },
       {
-        "description": "A data connection represents a company's connection to a data source and allows you to exchange data (pull and push) with that source.",
+        "description": "A data Connection represents a company's connection to a data source and allows you to exchange data (pull and push) with that source.",
         "name": "Connections",
         "externalDocs": {
           "url": "https://docs.codat.io/docs/core-dataconnections"
         }
       },
       {
-        "description": "In Codat, an integration represents a third-party data source that you can connect a company to (using a data connection) so that you can access that company's business data.",
+        "description": "An integration represents a third-party data source that you can connect a company to (using a data connection) so that you can access that company's business data.",
         "name": "Integrations",
         "externalDocs": {
           "url": "https://docs.codat.io/docs/core-integrations"
         }
-      }
+      },
       {
-        "description": "dhu hdaish isahd iahs diasd",
+        "description": "Alerts and rules help you to monitor changes in the connection status or data freshness of a company.",
         "name": "Rules",
         "externalDocs": {
           "url": "https://docs.codat.io/docs/core-rules"
